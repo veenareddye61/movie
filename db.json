@@ -1,0 +1,51 @@
+{
+  "movies": [
+    {
+      "name": "Bahubali",
+      "id": "1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PHiih-fvGaBo80DDJKMN9u_AVYsk38kUcQ&usqp=CAU"
+    },
+    {
+      "name": "Bahubali2",
+      "id": "2",
+      "img": "https://moviegalleri.net/wp-content/uploads/2017/05/Prabhas-Baahubali-2-Movie-2nd-Week-Poster.jpg"
+    },
+    {
+      "name": "Karthikeya",
+      "id": "3",
+      "img": "https://www.chitramala.in/wp-content/uploads/2014/05/Nikhil-Karthikeya-Movie-Posters.jpg"
+    },
+    {
+      "name": "Karthikeya2",
+      "id": "4",
+      "img": "https://cdn.123telugu.com/content/wp-content/uploads/2022/08/Karthikeya2-2.jpg"
+    },
+    {
+      "name": "Sita Ramam",
+      "id": "5",
+      "img": "https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "Bimbisara",
+      "id": "6",
+      "img": "https://m.media-amazon.com/images/M/MV5BN2JjZjgwYTktYzc3Mi00NzY4LWE1OGEtOGU4YTI5YmIxMGNjXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg"
+    }
+  ],
+  "favourite": [
+    {
+      "id": "2",
+      "name": "Bahubali2",
+      "image": "https://moviegalleri.net/wp-content/uploads/2017/05/Prabhas-Baahubali-2-Movie-2nd-Week-Poster.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Sita Ramam",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Karthikeya2",
+      "image": "https://cdn.123telugu.com/content/wp-content/uploads/2022/08/Karthikeya2-2.jpg"
+    }
+  ]
+}
